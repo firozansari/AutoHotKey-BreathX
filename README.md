@@ -1,17 +1,17 @@
 # AutoHotKey-BreathX
 
-Breathing exercises are techniques that focus on controlling and regulating your breath. People have been doing these things for centuries in different cultures, and they have numerous benefits on physical and mental well-being. BreathX is very basic AutHotKey script which help you to control and regulate your breath.
+Breathing exercises are techniques that focus on controlling and regulating your breath. People have been doing these things for centuries in different cultures, and they have numerous benefits for physical and mental well-being. BreathX is a very basic AutHotKey script that helps you to control and regulate your breath.
 
-Usage is self explainatory. Run the script, tool will run at the bottom-right corner of the screen. 
+Usage is self-explanatory. Run the script; the tool will run at the bottom-right corner of the screen. 
 
-You can control the duration of inhale, hold, and exhale using following variables (values are in milliseconds) in the script.
+You can control the duration of inhale, hold, and exhale using the following variables (values are in milliseconds) in the script.
 
 ```ahk
 ; Breathing Configs (in Millisecond)
-inhaleDuration := 3000
-pauseAfterInhale := 2000
+inhaleDuration := 4000
+pauseAfterInhale := 7000
 exhaleDuration := 8000
-pauseAfterExhale := 2000
+pauseAfterExhale := 100
 ```
 
 Following are some popular breathing techniques:
