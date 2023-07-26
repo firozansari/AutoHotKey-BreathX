@@ -15,28 +15,28 @@ pauseAfterExhale := 2000
 ```
 
 Following are some popular breathing techniques:
-## 2:1 Breathing
-4.0s Inhale
-8.0s Exhale
+### 2:1 Breathing
+4.0s Inhale 
+8.0s Exhale 
 
-## 4-7-8 Breathing
-4.0s Inhale
-7.0s Pause
-8.0s Exhale
-0.0s Pause
+### 4-7-8 Breathing
+4.0s Inhale 
+7.0s Pause 
+8.0s Exhale 
+0.0s Pause 
 
-## Box Breathing
-4.0s Inhale
-4.0s Pause
-4.0s Exhale
-4.0s Pause
+### Box Breathing
+4.0s Inhale 
+4.0s Pause 
+4.0s Exhale 
+4.0s Pause 
 
-## Coherent Breathing
-5.0s Inhale
-5.0s Exhale
+### Coherent Breathing
+5.0s Inhale 
+5.0s Exhale 
 
-## Power Breathing
-2.0s Inhale
-2.0s Exhale
+### Power Breathing
+2.0s Inhale 
+2.0s Exhale 
 
 I hope you will find this script useful.
