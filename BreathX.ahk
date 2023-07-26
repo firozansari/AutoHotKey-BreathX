@@ -1,10 +1,10 @@
 #SingleInstance Force
 
 ; Breathing Configs (in Millisecond)
-inhaleDuration := 3000
-pauseAfterInhale := 2000
+inhaleDuration := 4000
+pauseAfterInhale := 7000
 exhaleDuration := 8000
-pauseAfterExhale := 2000
+pauseAfterExhale := 100
 
 width := 0
 if (inhaleDuration > exhaleDuration)
